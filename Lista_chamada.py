@@ -1,4 +1,3 @@
-import tkinter as tk
 from sklearn.preprocessing import LabelEncoder
 from sqlalchemy import create_engine
 import pandas as pd
